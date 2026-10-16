@@ -1,0 +1,38 @@
+java
+spring boot
+spring
+rest api
+microservices
+hibernate
+jpa
+sql
+mysql
+postgresql
+mongodb
+python
+machine learning
+data analysis
+tensorflow
+pytorch
+docker
+kubernetes
+ci/cd
+aws
+azure
+linux
+jenkins
+html
+css
+javascript
+react
+angular
+ui/ux
+selenium
+junit
+test automation
+git
+maven
+agile
+scrum
+communication
+leadership
